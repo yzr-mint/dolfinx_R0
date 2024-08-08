@@ -1,5 +1,5 @@
 # Original multiphenics code Copyright (C) 2016-2022 by the multiphenics authors
-# Modifications and additional code by yzr-mint under the same license.
+# Modifications and additional code by yzr-mint, 2024 under the same license.
 #
 # This file utilizes the multiphenics library, which is covered under the GNU Lesser General Public License as published by
 # the Free Software Foundation, either version 3 of the License, or
